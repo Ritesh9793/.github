@@ -26,11 +26,12 @@ and secure architecture through internships and advanced projects.
 - Team Collaboration
 - Time Management
 - Leadership Qualities
+- Excel, Word, PowerPoint, Notes, etc.
 
 ---
 ## Certifications
-- JavaScript Developer Certification (FreeCodeCamp)
-- Foundational C# Certification (FreeCodeCamp)
+- JavaScript Developer Certification (FreeCodeCamp) [Link](https://www.freecodecamp.org/certification/ritesh_gupta/javascript-v9)
+- Foundational C# Certification (FreeCodeCamp) [Link](https://www.freecodecamp.org/certification/ritesh_gupta/foundational-c-sharp-with-microsoft)
 
 ---
 ## Competitive Profile
