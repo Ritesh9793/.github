@@ -12,6 +12,7 @@ and secure architecture through internships and advanced projects.
 3. APISangam- A B2B API Distribution Platform [Link]()
 4. Mentation- Note Taking with collaboration workspace through email Invites [Link]()
 
+---
 ## Work Experience
 1. Java Developer Intern - Infosys Springboard (8 weeks)
 2. Summer Intern - Indian Railways (6 weeks)
