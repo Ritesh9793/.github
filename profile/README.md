@@ -65,7 +65,7 @@ and secure architecture through internships and advanced projects.
 ---
 ## About
 - Ritesh Gupta
-- +91- 9793584501
-- ritesh97935gupt@gmail.com
-- https://www.linkedin.com/in/rit3sh-6upta/
-- https://rit3sh-6upta.vercel.app/
+- Phone: +91- 9793584501
+- Mail: ritesh97935gupt@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rit3sh-6upta/
+- Portfolio: https://rit3sh-6upta.vercel.app/
