@@ -5,10 +5,12 @@ Backend-focused Developer with hands-on experience building scalable Spring Boot
 authentication systems, and production-grade backend platforms. Experienced with realtime systems, API integrations, caching, 
 and secure architecture through internships and advanced projects. 
 
+---
 ## Work Experience
 1. Java Developer Intern - Infosys Springboard (8 weeks)
 2. Summer Intern - Indian Railways (6 weeks)
 
+---
 ## Tech stack
 - Programming Language: Java, JavaScript, C#, C/C++, Python (Learning)
 - Backend Framework: Spring Boot, NodeJS, ExpressJS, .NET
@@ -18,19 +20,23 @@ and secure architecture through internships and advanced projects.
 - Tools: GitAction, IDEs (IntelliJIDEA, Eclipse, and VSCode), Postman, Docker, K8S, Kafka, RabbitMQ
 - Other: Kanban, SOAP, Microservices, Monolithic, RestAPIs, Cloud Computing (familiar with AWS & GCP)
 
+---
 ## Soft Skills
 - Fluent Communication (English and Hindi both)
 - Team Collaboration
 - Time Management
 - Leadership Qualities
 
+---
 ## Certifications
 - JavaScript Developer Certification (FreeCodeCamp)
 - Foundational C# Certification (FreeCodeCamp)
 
+---
 ## Competitive Profile
 - https://www.leetcode.com/u/Vere_Om/
 
+---
 ## Education
 - B.Tech. in Information Technology
   - (CHAUDHARY CHARAN SINGH UNIVERSITY, MEERUT)
@@ -42,6 +48,7 @@ and secure architecture through internships and advanced projects.
   - (JANTA JANARDAN INTER COLLEGE, BHURKUDA)
   - Percentage: 82.3%
 
+---
 ## About
 - Ritesh Gupta
 - +91- 9793584501
