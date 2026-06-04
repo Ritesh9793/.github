@@ -64,7 +64,7 @@ and secure architecture through internships and advanced projects.
 
 ---
 ## About
-- Ritesh Gupta
+- Address: Mirzapur, Uttar Pradesh - 231305
 - Phone: +91- 9793584501
 - Mail: ritesh97935gupt@gmail.com
 - LinkedIn: https://www.linkedin.com/in/rit3sh-6upta/
