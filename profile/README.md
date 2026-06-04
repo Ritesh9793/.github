@@ -6,6 +6,12 @@ authentication systems, and production-grade backend platforms. Experienced with
 and secure architecture through internships and advanced projects. 
 
 ---
+## Projects
+1. Crypto Portfolio Tracker with Risk and Scam Detection [Link]()
+2. Trix- Social Media Platform [Link]()
+3. APISangam- A B2B API Distribution Platform [Link]()
+4. Mentation- Note Taking with collaboration workspace through email Invites [Link]()
+
 ## Work Experience
 1. Java Developer Intern - Infosys Springboard (8 weeks)
 2. Summer Intern - Indian Railways (6 weeks)
@@ -30,14 +36,14 @@ and secure architecture through internships and advanced projects.
 
 ---
 ## Certifications
-- JavaScript Developer Certification (FreeCodeCamp) [Link](https://www.freecodecamp.org/certification/ritesh_gupta/javascript-v9)
-- Foundational C# Certification (FreeCodeCamp) [Link](https://www.freecodecamp.org/certification/ritesh_gupta/foundational-c-sharp-with-microsoft)
+1. JavaScript Developer Certification (FreeCodeCamp) [Link](https://www.freecodecamp.org/certification/ritesh_gupta/javascript-v9)
+2. Foundational C# Certification (FreeCodeCamp) [Link](https://www.freecodecamp.org/certification/ritesh_gupta/foundational-c-sharp-with-microsoft)
 
 ---
 ## Competitive Profile
-- LeetCode: https://www.leetcode.com/u/Vere_Om/
-- CodeChef: https://www.codechef.com/users/vere_om/
-- Codeforces: https://codeforces.com/profile/VereOm
+1. LeetCode: https://www.leetcode.com/u/Vere_Om/
+2. CodeChef: https://www.codechef.com/users/vere_om/
+3. Codeforces: https://codeforces.com/profile/VereOm
 
 ---
 ## Education
@@ -50,6 +56,11 @@ and secure architecture through internships and advanced projects.
 - HighSchool with Science
   - (JANTA JANARDAN INTER COLLEGE, BHURKUDA)
   - Percentage: 82.3%
+
+---
+## Preferred Location
+1. Anywhere in India
+2. Remote (if possible)
 
 ---
 ## About
