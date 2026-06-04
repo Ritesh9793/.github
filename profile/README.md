@@ -34,7 +34,9 @@ and secure architecture through internships and advanced projects.
 
 ---
 ## Competitive Profile
-- https://www.leetcode.com/u/Vere_Om/
+- LeetCode: https://www.leetcode.com/u/Vere_Om/
+- CodeChef: https://www.codechef.com/users/vere_om/
+- Codeforces: https://codeforces.com/profile/VereOm
 
 ---
 ## Education
