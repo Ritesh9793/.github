@@ -28,16 +28,19 @@ and secure architecture through internships and advanced projects.
 - JavaScript Developer Certification (FreeCodeCamp)
 - Foundational C# Certification (FreeCodeCamp)
 
+## Competitive Profile
+- https://www.leetcode.com/u/Vere_Om/
+
 ## Education
 - B.Tech. in Information Technology
-  (CHAUDHARY CHARAN SINGH UNIVERSITY, MEERUT)
-  CGPA: 8.5+ / 10
+  - (CHAUDHARY CHARAN SINGH UNIVERSITY, MEERUT)
+  - CGPA: 8.5+ / 10
 - Intermediate with PCME
-  (JANTA JANARDAN INTER COLLEGE, BHURKUDA)
-  Percentage: 79.8%
+  - (JANTA JANARDAN INTER COLLEGE, BHURKUDA)
+  - Percentage: 79.8%
 - HighSchool with Science
-  (JANTA JANARDAN INTER COLLEGE, BHURKUDA)
-  Percentage: 82.3%
+  - (JANTA JANARDAN INTER COLLEGE, BHURKUDA)
+  - Percentage: 82.3%
 
 ## About
 - Ritesh Gupta
